@@ -18,7 +18,7 @@
 remote_theme: mmistakes/so-simple-theme
 
 locale: en-US
-title: "Oromi Moments"
+title: "Oromi Momentos"
 description: "A simple Jekyll theme for words and pictures."
 baseurl: "/"
 url: "https://oromi.me"
