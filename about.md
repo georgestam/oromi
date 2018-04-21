@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: about
 ---
+
 
 A variety of common HTML elements to demonstrate the theme's stylesheet and verify they have been styled appropriately.
 
