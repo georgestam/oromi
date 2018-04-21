@@ -19,13 +19,13 @@ remote_theme: mmistakes/so-simple-theme
 
 locale: en-GB
 title: "Oromi's Moments"
-description: "A simple Jekyll theme for words and pictures."
+description: "Because I did not know what I knew, and I do not know what what I do not know"
 baseurl: "/"
 url: "https://oromi.me"
 logo: "/images/2018/jordi-bitmoji.png"
-date_format: "%B %-d, %Y"
+date_format: "%-d %B, %Y"
 read_time: true
-words_per_minute: # 200
+words_per_minute: 200
 mathjax: true
 google_fonts:
   - name: "Source Sans Pro"
@@ -54,7 +54,7 @@ paginate: 10
 paginate_path: /page:num/
 
 # Search
-search_full_content: false
+search_full_content: true
 
 # Taxonomy pages
 category_archive_path: "/categories/#"
@@ -91,14 +91,6 @@ defaults:
   - scope:
       path: "_posts"
       type: posts
-    values:
-      layout: post
-      comments: true
-      share: true
-  # Recipe defaults
-  - scope:
-      path: "_recipes"
-      type: recipes
     values:
       layout: post
       comments: true
