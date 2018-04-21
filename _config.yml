@@ -17,12 +17,12 @@
 # theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme
 
-locale: en-US
-title: "Oromi Momentos"
+locale: en-GB
+title: "Oromi's Moments"
 description: "A simple Jekyll theme for words and pictures."
 baseurl: "/"
 url: "https://oromi.me"
-logo: "/images/so-simple-site-logo.png"
+logo: "/images/2018/jordi-bitmoji.png"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: # 200
