@@ -1,15 +1,12 @@
 # Authors
 
-Billy Rick:
-  name: Billy Rick
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+Jordi Fernandez:
+  name: Jordi Fernandez
+  picture: /images/2018/jordi-bitmoji.png
   links:
-    - title: Twitter
-      url: https://twitter.com/billyrick
-      icon: fab fa-twitter-square
-
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
+    - title: Linkedin
+      url: https://www.linkedin.com/in/newwavesdesign/
+      icon: fab fa-linkedin
+    - title: GitHub
+      url: https://github.com/georgestam
+      icon: fab fa-github-square
