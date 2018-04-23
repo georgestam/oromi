@@ -98,10 +98,9 @@ defaults:
 
 # Site Author
 author:
-  name: Michael Rose
-  picture: /images/michael-rose-photo.jpg
-  email:
-  twitter: mmistakes
+  name: Jordi Fernandez
+  picture: /images/2018/jordi-bitmoji.png
+  email: jordi@respira.io
   links:
     - title: Linkedin
       url: https://www.linkedin.com/in/newwavesdesign/
