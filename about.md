@@ -3,9 +3,8 @@ title: About
 layout: page
 ---
 
-> People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things.
->
-> <footer><strong>Steve Jobs</strong> &mdash; Apple Worldwide Developers' Conference, 1997</footer>
+> The best time to plant a tree was 20 years ago. The second best time is now
+> <footer><strong>Chinese Proverb</strong> &mdash;</footer>
 
 My name is Jordi Fernandez Oromi and I am mechanical engineer. I am also entrepreneur, software developer, runner, Buddhist, part-time vegan, husband, and a person who stammer, amongst many other things.
 {: .text-justify}
