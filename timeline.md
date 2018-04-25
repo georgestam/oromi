@@ -1,8 +1,7 @@
 ---
 title: Timeline
 layout: tags
-permalink: /categories/timeline/
-taxonomy: Timeline
+permalink: /tags/
 show_excerpts: true
 entries_layout: list
 ---

@@ -1,8 +1,9 @@
 ---
 title: "when to (and not to) worry"
 categories:
-  - Mindfulness
+  - mindfulness
 last_modified_at: 23-04-2018 13:43
+visible: 1
 ---
 
 Although I fully agree with above quote, I would like to dig deeper into the question: why those worries never happened? 
