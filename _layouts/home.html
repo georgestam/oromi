@@ -1,0 +1,18 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% assign postsInYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+
+{% assign postsByYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+{% for year in postsByYear %}
+<div class="entries-{{ page.entries_layout | default: 'list' }}">
+  {% for entry in year.items %}
+  {% if entry.visible == 1  %}
+    {% include entry.html %}
+  {% endif %}
+  {% endfor %}
+</div>
+{% endfor %}
