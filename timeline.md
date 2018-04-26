@@ -1,5 +1,5 @@
 ---
-title: Timeline
+title: Timeline Tags
 layout: tags
 permalink: /tags/
 show_excerpts: true

@@ -1,5 +1,5 @@
 ---
-title: Post
+title: Timeline Posts
 layout: posts
 permalink: /posts/
 show_excerpts: true
