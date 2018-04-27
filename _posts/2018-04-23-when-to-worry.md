@@ -2,6 +2,8 @@
 title: "when to (and not to) worry"
 categories:
   - mindfulness
+tags:
+  - none
 last_modified_at: 23-04-2018 13:43
 visible: 1
 ---
