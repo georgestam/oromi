@@ -1,10 +1,42 @@
 ---
-layout: home
-excerpt: "Oromi moments!"
-show_excerpts: true
-paginate: true
-entries_layout: list
+title: Timeline
+layout: page
 ---
+
+This section includes a timeline of my life, family and friends. If you think that you want to have aceess send me and email and I will let you know the login details.
+
+<div class="text-center">
+    <div class="container">
+        <header class="header">
+            <h1>Jekyll Auth<span>No servers required.</span></h1>
+        </header>
+        <div class="content center">
+            <!-- login form -->
+    <h6 class="error" id="password-error" style="color:red"><strong></strong></h6>
+    <form method="POST">
+      <input class="password-input" type="password" placeholder="Password" name="aerobatic-password" id="aerobatic-password">
+        <input class="btn btn--primary" type="submit" value="Submit">
+    </form>
+            <!-- /form -->
+        </div>
+    </div>
+    <!-- /container -->
+    <!-- JS -->
+    <script>
+        if (/fail=1/.test(location.search)) {
+          document.getElementById("password-error").innerHTML= "Incorrect Password" ;
+        }
+    </script>
+</div>
+
+<div class="text-center">
+  <form method="POST">
+    <input type="password" name="aerobatic-password" />
+    <button type="submit" class="btn btn--success">Log in</button>
+  </form>
+</div>
+
+
 
 <!DOCTYPE html>
 <html lang="en">

@@ -1,6 +1,7 @@
 id: 207486fe-0682-43d6-bb6c-6d44a866a776
 plugins:
   - name: password-protect
+    path: /posts
     options:
       password: $SITE_PASSWORD
       loginPage: login.html
@@ -11,5 +12,28 @@ plugins:
         - /css/*.css
         - /js/*.js
         - /img/*.jpg
-  - name: webpage
+  - name: password-protect
+    path: /tags
+    options:
+      password: $SITE_PASSWORD
+      loginPage: login.html
+      maxFailures: 5
+      failureWindow: 600
+      lockoutDuration: 600
+      ignorePatterns:
+        - /css/*.css
+        - /js/*.js
+        - /img/*.jpg
+  - name: password-protect
+    path: /timeline
+    options:
+      password: $SITE_PASSWORD
+      loginPage: login.html
+      maxFailures: 5
+      failureWindow: 600
+      lockoutDuration: 600
+      ignorePatterns:
+        - /css/*.css
+        - /js/*.js
+        - /img/*.jpg
 deploy: {}
