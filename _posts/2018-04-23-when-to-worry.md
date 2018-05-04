@@ -3,7 +3,7 @@ title: "when to (and not to) worry"
 categories:
   - mindfulness
 tags:
-  - none
+  - mindfulness
 last_modified_at: 23-04-2018 13:43
 visible: 1
 ---
@@ -27,10 +27,12 @@ When evaluating Risks, I like to think on all the risks but then We have to know
 
 My father usually says, 'ocupata not precoupat'. It is difficult to tranlate this on eglish but ocupat means 'keep working', and a 'pre' is unncesiary.
 
-In a practical way, I like to evaluare risks, plan ahead and then have feith that everythink is going to work as plan, without worrying. 
+In a practical way, I like to evaluate risks, plan ahead and then have feith that everythink is going to work as plan, without worrying. 
 
-The simple fact of acknowledge a risk and do something about it is the enough level of worrying to take in my opinon 
+The simple fact of acknowledge a risk and do something about it is the enough level of worrying to take in my opinon. 
 
 ## Conclusion
 
 We do not have control of anything, but we always have some degree of input of anything that can happen. Applying a small action (or the 80/20 rule) to any event we worry about, is more than enough in most of the situations. 
+
+

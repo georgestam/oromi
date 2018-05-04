@@ -4,7 +4,7 @@ categories:
   - mindfulness
   - timeline
 tags:
-  - none
+  - mindfulness
 last_modified_at: 10-04-2014 13:43
 visible: 1
 ---
