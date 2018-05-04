@@ -19,7 +19,7 @@ remote_theme: mmistakes/so-simple-theme
 
 locale: en-GB
 title: "Oromi's Moments"
-description: "I live interesting moments, because I forget what I know what I do not know what I do not know"
+description: "I live interesting moments, because I forget what I know and I do not know what I do not know"
 baseurl: "/"
 url: "https://oromi.me"
 logo: "/images/2018/jordi-bitmoji.png"
@@ -32,12 +32,12 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-google_analytics: "UA-2011187-2"
+google_analytics: ""
 disqus:
-  shortname: "sosimpletheme"
+  shortname: "georgestam00"
 twitter:
-  username: "mmistakes"
-google_site_verification: "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y"
+  username: "respirateam"
+google_site_verification: ""
 
 # Liquid
 liquid:
