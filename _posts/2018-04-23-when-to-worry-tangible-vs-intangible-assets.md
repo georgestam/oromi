@@ -2,14 +2,14 @@
 title: "When to (and not to) worry: Tangible vs Intangible Assets"
 categories:
   - mindfulness
+tags:
+  - mindfulness
   - intangible assets
   - tangible asset
   - 80-20-rule
   - death
   - loss-aversion
   - to-do-list
-tags:
-  - mindfulness
 last_modified_at: 23-04-2018 13:43
 visible: 1
 ---
